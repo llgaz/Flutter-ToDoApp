@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "314728921112",
+    "project_id": "ilgaz-to-do",
+    "storage_bucket": "ilgaz-to-do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314728921112:android:53444107090d213e1aeb6d",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314728921112-nfuq0r1gbt2qhnjlofp7dc56gsu7jsli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQUveQK0LSNJFiTn9tDfWqrKRoVlGyIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314728921112-nfuq0r1gbt2qhnjlofp7dc56gsu7jsli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314728921112-8n4ijiuahkrosrg6pot84tnrf2hbov1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
